@@ -1,0 +1,1 @@
+C:\Projetos\AtualizaChromeDriver\venv\Scripts\python.exe app.py
